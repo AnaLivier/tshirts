@@ -62,4 +62,4 @@ const tshirts = [
     stock: 2,
     quantity: 1
   }
-]
+];
